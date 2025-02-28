@@ -39,3 +39,13 @@
 </div>
 
 ###
+
+# My Projects
+
+| Name                     | Technologies & Tools               | Preview                                  |
+|----------------------------|---------------------------------------|-----------------------------------------------------|
+| Kumkuyu Beton Landing Page | HTML, WordPress  | [Live](https://www.kumkuyubeton.com)      |
+| Dölekoğlu Oto Servis Landing Page | HTML, WordPress  | [Live](https://www.dolekogluotoservis.com)      |
+| Güler Elektrik Landing Page | HTML, WordPress | [Live](https://www.gulerelektriktelekom.com)      |
+| Psykant Portfolio Page | HTML, WordPress | [Live](https://www.psykant.com)      |
+
