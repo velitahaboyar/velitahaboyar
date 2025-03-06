@@ -48,8 +48,8 @@
 
   | Name                                                | Technologies & Tools                                | Preview                                             |
   |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-  | Kumkuyu Beton Landing Page | HTML, CSS, WordPress  |     [Live](https://www.kumkuyubeton.com)                                                                        |
-  | Dölekoğlu Oto Servis Landing Page | HTML, CSS, WordPress  |     [Live](https://www.dolekogluotoservis.com)                                                           |
-  | Güler Elektrik Landing Page | HTML, CSS, WordPress |     [Live](https://www.gulerelektriktelekom.com)                                                                |
+  | Kumkuyu Beton Website | HTML, CSS, WordPress  |     [Live](https://www.kumkuyubeton.com)                                                                        |
+  | Dölekoğlu Oto Servis Website | HTML, CSS, WordPress  |     [Live](https://www.dolekogluotoservis.com)                                                           |
+  | Güler Elektrik Website | HTML, CSS, WordPress |     [Live](https://www.gulerelektriktelekom.com)                                                                |
   | Psykant Portfolio Page | HTML, CSS, WordPress |     [Live](https://www.psykant.com)                                                                                  |
 
