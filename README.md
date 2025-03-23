@@ -53,5 +53,5 @@
   | Dölekoğlu Oto Servis Website | HTML, CSS, WordPress  |     [Live](https://www.dolekogluotoservis.com)                                                           |
   | Güler Elektrik Website | HTML, CSS, WordPress |     [Live](https://www.gulerelektriktelekom.com)                                                                |
   | Psykant Portfolio Page | HTML, CSS, WordPress |     [Live](https://www.psykant.com)                                                                             |
-  |
+  
 
