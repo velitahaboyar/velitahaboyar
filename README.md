@@ -48,6 +48,7 @@
 
   | Name                                     | Technologies & Tools       | Description                                                     | Preview                                          |
   |------------------------------------------|----------------------------|-----------------------------------------------------------------|--------------------------------------------------|
+  | Tukan Elt                                | React, Bootstrap           | Corporate Website                                               | [Live](https://www.tukanelt.com)                 |
   | PayAPP                                   | React, Vite, Bootstrap-5.3.3| Commission Management App                                      | [Live Demo](https://velitahaboyar.github.io/pay-app/)    |
   | Psykant                                  | HTML, CSS, WordPress       | Personal Website                                                | [Live](https://www.psykant.com)                  |
   | Kumkuyu Beton                            | HTML, CSS, WordPress       | Corporate Website                                               | [Live](https://www.kumkuyubeton.com)             |                             
