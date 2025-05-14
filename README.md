@@ -41,7 +41,7 @@
   </a>
 </div>
 
-<kbd> <br> My Portfolio <br> </kbd>(https://velitahaboyar-portfolio.vercel.app)
+<kbd> <br> My Portfolio <br> </kbd>[https://velitahaboyar-portfolio.vercel.app]
 
 ###
 
