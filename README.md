@@ -41,7 +41,8 @@
   </a>
 </div>
 
-<kbd> <br> My Portfolio (https://velitahaboyar-portfolio.vercel.app)<br> </kbd>
+## 🌐 My Portfolio  
+[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=vercel)](https://velitahaboyar-portfolio.vercel.app)
 
 ###
 
