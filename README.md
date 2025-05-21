@@ -50,6 +50,7 @@
 
   | Name                                     | Technologies & Tools       | Description                                                     | Preview                                          |
   |------------------------------------------|----------------------------|-----------------------------------------------------------------|--------------------------------------------------|
+  | My Portfolio                             | React, Bootstrap           | Personal Website                                                | [Live](https://velitahaboyar-portfolio.vercel.app)|
   | Tukan Elt                                | React, Bootstrap           | Corporate Website                                               | [Live](https://www.tukanelt.com)                 |
   | PayAPP                                   | React, Vite, Bootstrap-5.3.3| Commission Management App                                      | [Live Demo](https://velitahaboyar.github.io/pay-app/)    |
   | Psykant                                  | HTML, CSS, WordPress       | Personal Website                                                | [Live](https://www.psykant.com)                  |
