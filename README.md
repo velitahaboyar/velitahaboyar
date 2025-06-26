@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📚 I am currently learning and writing HTML, CSS, JavaScript & React.</p>
+<p align="center">📚 I am currently learning and writing HTML, CSS, JavaScript & React & React Native.</p>
 
 ###
 
