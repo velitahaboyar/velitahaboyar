@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center">📚 I am currently writing JavaScript, React & React Native.</p>
-
-###
-
 <br clear="both">
 
 <div align="center">
