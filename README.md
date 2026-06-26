@@ -13,8 +13,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind logo" height="30"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript logo" height="30"/>
@@ -44,12 +42,11 @@
 
 # My Projects / Works
 
-  | Name                                     | Technologies & Tools       | Description                                                     | Preview                                          |
-  |------------------------------------------|----------------------------|-----------------------------------------------------------------|--------------------------------------------------|
-  | My Portfolio                             | React, Bootstrap           | Personal Website                                                | [Live](https://velitahaboyar-portfolio.vercel.app)|
-  | Tukan Elt                                | React, Bootstrap           | Corporate Website                                               | [Live](https://www.tukanelt.com)                 |
-  | PayAPP                                   | React, Vite, Bootstrap-5.3.3| Commission Management App                                      | [Live Demo](https://velitahaboyar.github.io/pay-app/)    |
-  | Psykant                                  | HTML, CSS, WordPress       | Personal Website                                                | [Live](https://www.psykant.com)                  |
-  | Kumkuyu Beton                            | HTML, CSS, WordPress       | Corporate Website                                               | [Live](https://www.kumkuyubeton.com)             |                             
-  | Dölekoğlu Oto Servis                     | HTML, CSS, WordPress       | Corporate Website                                               | [Live](https://www.dolekogluotoservis.com)       |
-  | Güler Elektrik                           | HTML, CSS, WordPress       | Corporate Website                                               | [Live](https://www.gulerelektriktelekom.com)     |
+| Name | Technologies | Description | Preview |
+|------|-------------|-------------|---------|
+| My Portfolio | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | Personal Website | [Live](https://velitahaboyar-portfolio.vercel.app) |
+| ERP-Integrated E-Commerce Platform | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | End-to-end multi-platform e-commerce solution with ERP integration; web store, mobile app, admin panel and cashier screen built from scratch and shipped to production | Private Repo |
+| Warehouse Management System | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) | Role-based warehouse management system with barcode scanning support, deployed on a self-hosted VPS | Private Repo |
+| OveEdu | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | AI-powered personalized learning platform with performance tracking and adaptive study plans | Private Repo |
+| PosturePal | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | Real-time posture analysis app that detects posture issues and provides corrective feedback | Private Repo |
+| Pomofun | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | Focus and personal productivity app with study session tracking, analytics and a global leaderboard | Private Repo |
