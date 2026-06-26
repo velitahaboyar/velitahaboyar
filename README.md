@@ -1,54 +1,37 @@
 <h2 align="left">Hi 👋! My name is Taha.</h2>
 
-<p align="left">Full-Stack Developer focused on mobile and web applications.</p>
+<p align="left">Software Developer | AI-Powered Apps & Intelligent Systems</p>
 
 ###
 
-## 🛠️ Skills
-
-**Frontend**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" title="React / React Native" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs" title="Next.js" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" title="JavaScript" />
   <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" title="TypeScript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="36" alt="tailwind" title="Tailwind CSS" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
-</div>
-
-<br/>
-
-**Mobile**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react-native" title="React Native" />
-</div>
-
-<br/>
-
-**Backend & Database**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql" title="PostgreSQL" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma" title="Prisma" />
-</div>
-
-<br/>
-
-**Tools**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="36" alt="prisma" title="Prisma" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="36" alt="supabase" title="Supabase" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git" title="Git" />
 </div>
 
 ###
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=velitahaboyar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=velitahaboyar&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="160" alt="languages" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=velitahaboyar&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
@@ -58,12 +41,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/velitahaboyar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://velitahaboyar-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio" />
   </a>
 </div>
-
-## 🌐 My Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=vercel)](https://velitahaboyar-portfolio.vercel.app)
 
 ###
 
